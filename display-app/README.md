@@ -1,7 +1,7 @@
 
 
 
-Install all the required softwares to run react app.
+Install all the required softwares to run react app.<br/>
 create a folder to clone this project.
 might get incompatability issues due to locally installed versions and  application .json installed version while running the app.
 #Open terminal navigate to the cloned folder run the below command
