@@ -1,0 +1,28 @@
+
+    header{
+        background: rgb(41, 11, 173);
+    }
+
+    .logo{
+        color: red;
+        text-Align:centre;
+        font-size:30;
+        
+    }
+
+    .centr{
+        display: flex;
+        color : white;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .world{
+    
+            display: flex;
+            color : rgb(156, 23, 23);
+            justify-content: center;
+            align-items: center;
+            font-size: xx-large;
+       
+    }

@@ -1,0 +1,11 @@
+[{
+    "id":1,
+    "title":"React",
+    "feed":"ReactJS is JavaScript library used for building reusable UI components. According to React official documentation,"
+},
+{
+    "id":2,
+    "title":"JavaScript",
+    "feed":"JavaScript is the programming language of HTML and the Web"
+}
+]
